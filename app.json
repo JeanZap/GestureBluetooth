@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GestureBluetooth",
+    "slug": "GestureBluetooth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GestureBluetooth"
+}
