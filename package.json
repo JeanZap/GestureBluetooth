@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "expo start --dev-client",
-    "android": "expo run:android",
+    "android": "react-native run-android",
     "ios": "expo run:ios",
     "web": "expo start --web"
   },
@@ -15,7 +15,10 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-bluetooth-classic": "^1.60.0-rc.20",
+    "react-native-gesture-handler": "^1.4.0",
+    "react-native-web": "0.17.1",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
